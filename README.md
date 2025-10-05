@@ -11,6 +11,7 @@ jenkins-101 for who want to learning jenkins from scratch.
     * [Pipeline: Groovy](https://plugins.jenkins.io/workflow-cps/)
     * [github.com/jenkinsci/groovy-sandbox](https://github.com/jenkinsci/groovy-sandbox)
 * groovy
+    * [www.geeksforgeeks.org/groovys-domain-specific-language-dsl-for-jenkins-pipelines/](https://www.geeksforgeeks.org/groovys-domain-specific-language-dsl-for-jenkins-pipelines/)
     * [www.jenkins.io/doc/pipeline/steps/workflow-cps/](https://www.jenkins.io/doc/pipeline/steps/workflow-cps/)
     * [groovy-lang.org/documentation.html#gettingstarted](https://groovy-lang.org/documentation.html#gettingstarted)
     * [github.com/apache/groovy](https://github.com/apache/groovy)

@@ -7,6 +7,11 @@ jenkins-101 for who want to learning jenkins from scratch.
 docker compose up -d
 ```
 
+## to-do-list
+
+* pipeline with gitlab
+* exposing to network via Cloudflare
+
 ## Docs/Tips/MISC...etc
 
 * jenkins

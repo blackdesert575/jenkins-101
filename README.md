@@ -10,6 +10,8 @@ docker compose up -d
 ## to-do-list
 
 * pipeline with gitlab
+  * setup build tools:
+    * maven for build java app
 * exposing to network via Cloudflare
 
 ## Docs/Tips/MISC...etc
@@ -22,6 +24,11 @@ docker compose up -d
     * [Pipeline: Groovy](https://plugins.jenkins.io/workflow-cps/)
     * [github.com/jenkinsci/groovy-sandbox](https://github.com/jenkinsci/groovy-sandbox)
     * [Downloading and running Jenkins in Docker](https://www.jenkins.io/doc/book/installing/docker/#downloading-and-running-jenkins-in-docker)
+      * pipeline
+        * [doc/tutorials/#tools](https://www.jenkins.io/doc/tutorials/#tools)
+        * [doc/pipeline/examples/#artifactory-maven-build](https://www.jenkins.io/doc/pipeline/examples/#artifactory-maven-build)
+* Jenkins plugin
+  * [gitlab-plugin](https://github.com/jenkinsci/gitlab-plugin)
 * groovy
     * [www.geeksforgeeks.org/groovys-domain-specific-language-dsl-for-jenkins-pipelines/](https://www.geeksforgeeks.org/groovys-domain-specific-language-dsl-for-jenkins-pipelines/)
     * [www.jenkins.io/doc/pipeline/steps/workflow-cps/](https://www.jenkins.io/doc/pipeline/steps/workflow-cps/)

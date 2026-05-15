@@ -9,6 +9,7 @@ docker compose up -d
 
 ## to-do-list
 
+* jenkins with gitlab access
 * pipeline with gitlab
   * setup build tools:
     * maven for build java app

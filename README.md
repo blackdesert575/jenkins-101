@@ -9,7 +9,10 @@ docker compose up -d
 
 ## to-do-list
 
+* configure build tools: 
+  * mvn: not found
 * jenkins with gitlab access
+  * git plugin type
 * pipeline with gitlab
   * setup build tools:
     * maven for build java app
